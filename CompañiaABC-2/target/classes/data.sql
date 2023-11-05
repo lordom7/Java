@@ -1,0 +1,1 @@
+INSERT INTO users(idUser,name,email,password,date_Created) VALUES
